@@ -31,4 +31,12 @@ a {
 
 p{
     text-align: center;
+    font-family: Verdana;
+    font-size: 21px;
+    color: grey;
+}
+
+footer{
+    text-align: right;
+    color: gray;
 }
