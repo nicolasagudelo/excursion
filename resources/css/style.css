@@ -10,6 +10,14 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+    text-align: center;
+}
+
 a {
     font-size: 16px;
     color: aquamarine;
@@ -18,5 +26,9 @@ a {
 
 .container {
     width: 100%;
+    text-align: center;
+}
+
+p{
     text-align: center;
 }
